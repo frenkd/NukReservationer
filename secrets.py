@@ -1,2 +1,4 @@
 username=""
 pw=""
+guser=""
+gpass=""

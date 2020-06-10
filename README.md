@@ -3,6 +3,7 @@ Bot for reserving a seat in NUK library
 
 ## How to
 Write your NUK username and password in secrets.py and run main.py
+Optional: Write your gmail username and password if you want to receive confirmation email
 
 ### Options
 By default the seat will be reserved for **Velika Citalnica**.  
