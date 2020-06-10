@@ -60,9 +60,9 @@ class NukReservation:
     else:
       print("Wrong argument!")
 
-
-    print("END\n") 
     sleep(4)
+    print("END\n") 
+    self.driver.quit()
 
 
 
