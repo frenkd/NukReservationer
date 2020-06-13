@@ -85,7 +85,7 @@ class NukReservation:
           #print("date and time =", dt_string)
 
           sent_from = gmail_user
-          to = ['martin.jurkovic19@gmail.com']
+          to = [gmail_user]
           subject = 'NUK REZERVACIJA: {t}'.format(t=dt_string)
           body = 'Rezervacija za citalnico uspesna!'
 
